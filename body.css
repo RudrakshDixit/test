@@ -35,4 +35,6 @@ section#information{
 
 body{
   background-color: #6869AA !important;
+  max-width: 100%;
+  width: 100%;
 }
