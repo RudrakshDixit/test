@@ -21,3 +21,6 @@ body>header aside a #site_name, body>header aside a:visited #site_name, body>hea
 #powered_by{
 display:none;
 }
+section#information{
+  width: 100%
+}
