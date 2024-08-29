@@ -17,3 +17,7 @@ body>header aside a #site_name, body>header aside a:visited #site_name, body>hea
 #usermenu{
   display:none ;
 }
+
+#powered_by{
+display:none;
+}
