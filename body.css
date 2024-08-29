@@ -4,11 +4,14 @@ body > header {
 }
 
 body>header aside a, body>header aside a:visited, body>header aside a:active, body>header aside a:hover{
-color: #6869AA;
+color: transparent;
+  display: none;
 }
 
 body>header aside a #site_name, body>header aside a:visited #site_name, body>header aside a:active #site_name, body>header aside a:hover #site_name{
-  color: #6869AA;
+  color: transparent;
+    display: none;
+
 }
 
 #usermenu{
