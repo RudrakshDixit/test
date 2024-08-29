@@ -33,6 +33,6 @@ section#information{
   height: 0;
 }
 
-.c_bookings a_video{
-  background-color: #6869AA;
+body{
+  background-color: #6869AA !important;
 }
